@@ -1,6 +1,6 @@
 # todolist
 
-A new Flutter project.
+A new  project using flutter and web3 programming .
 
 ## Getting Started
 
